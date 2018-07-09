@@ -1,14 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Compliment extends Component {
-    render() {
-        return (
-            <div>
-                "Good Afternoon!"
-                
-            </div>
-        );
-    }
+  render () {
+    return (
+      <div>
+        <h1>"You're tremendous!"</h1>
+      </div>
+    )
+  }
 }
 
-export default Compliment;
+export default Compliment
